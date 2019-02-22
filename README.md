@@ -1,6 +1,5 @@
 # pawarmohit.github.io
 under development   22-02-2019
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
